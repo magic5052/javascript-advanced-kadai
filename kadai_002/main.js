@@ -120,7 +120,7 @@ const timer = () => {
 
     }, 1000);
 
-    // ３秒経過したらタイムアップを表示する
+    // 60秒経過したらタイムアップを表示する
     setTimeout(() => {
         untypedfield.textContent = "タイムアップ！"
     }, 60000);
