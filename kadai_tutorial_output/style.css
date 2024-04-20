@@ -20,6 +20,13 @@ body {
     color: #fff;
 }
 
+.type-num {
+    display: none;
+    margin-top: 20px;
+    color: #666;
+    font-weight: bold;
+}
+
 /* 正しくタイプされた場合のテキスト */
 .typed {
     color: lightgreen;
