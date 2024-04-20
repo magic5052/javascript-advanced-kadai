@@ -27,5 +27,5 @@ body {
 
 /* ミスタイプの場合の背景 */
 .mistyped {
-    color: red;
+    background-color: rgb(152, 19, 41);
 }
